@@ -120,6 +120,7 @@
 *AI research tools let analysts and investors query filings, earnings calls, and market data in natural language instead of reading them line by line.*
 
 - **[AlphaSense](https://www.alpha-sense.com/)** — AI search platform that lets investment analysts and corporate teams query earnings calls, filings, and market research documents. `Paid (enterprise/custom pricing)`
+- **[Altyst](https://altyst.ai/)** — Turns a commercial property's offering memorandum, rent roll, or address into a full editable underwriting model, for real estate investors and analysts. `Paid`
 - **[Daloopa](https://daloopa.com/)** — AI platform that auto-extracts and updates sourced financial data from filings and earnings materials for equity analysts building models. `Freemium`
 - **[Danelfin](https://danelfin.com/)** — AI stock-scoring platform that rates stocks 1-10 on predicted outperformance and risk, aimed at retail and active individual investors. `Freemium`
 - **[Fiscal.ai (formerly Finchat.io)](https://fiscal.ai/)** — AI research terminal with chat-based Q&A over company filings, transcripts, and financials, for equity investors and analysts. `Freemium`
