@@ -123,6 +123,7 @@
 - **[Altyst](https://altyst.ai/)** — Turns a commercial property's offering memorandum, rent roll, or address into a full editable underwriting model, for real estate investors and analysts. `Paid`
 - **[Daloopa](https://daloopa.com/)** — AI platform that auto-extracts and updates sourced financial data from filings and earnings materials for equity analysts building models. `Freemium`
 - **[Danelfin](https://danelfin.com/)** — AI stock-scoring platform that rates stocks 1-10 on predicted outperformance and risk, aimed at retail and active individual investors. `Freemium`
+- **[DDScore](https://www.ddscore.ai/)** — Checks private-company materials against public sources to help investors and lenders prioritize due diligence. `Paid`
 - **[Fiscal.ai (formerly Finchat.io)](https://fiscal.ai/)** — AI research terminal with chat-based Q&A over company filings, transcripts, and financials, for equity investors and analysts. `Freemium`
 - **[Hebbia](https://www.hebbia.com/)** — Enterprise AI search and analysis tool that lets bankers, analysts, and consultants query large sets of documents and data at once. `Paid (enterprise/custom pricing)`
 - **[Koyfin](https://www.koyfin.com/)** — Financial data and portfolio analytics platform with AI-generated earnings call transcript summaries, for advisors and investors. `Freemium`
